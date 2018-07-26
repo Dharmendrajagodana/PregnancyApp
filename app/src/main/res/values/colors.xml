@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hashtag_color">#ffecec</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_fill_map_circle">#f49ef7</color>
+    <color name="color_stroke_map_circle">#84606c</color>
+</resources>
